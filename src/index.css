@@ -22,7 +22,6 @@ body {
     color: white;
     scroll-behavior: smooth;
     overflow-x: hidden;
-
 }
 
 @utility flex-center {
